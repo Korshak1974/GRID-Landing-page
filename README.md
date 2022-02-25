@@ -1,2 +1,2 @@
-# GRID-Landing-page
-Landing page with using onlyHTML-CSS
+# Landing-page
+Landing page with using only HTML-CSS
